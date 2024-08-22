@@ -48,7 +48,12 @@ public class Juarez_CarlosBiArray {
                 }
                 System.out.println();
                 
+                //suma Diagonal principal/nesesitamos que al primer suma vaya de manera diagonal
                
+                for(int i=0;i<=arreglo.length;i++){
+                
+                }
+                
                 continuar = false;
             }
         } while (continuar);
